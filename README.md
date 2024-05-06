@@ -13,12 +13,12 @@
 ## How to Run the Project:
 1. **Clone the repository**: 
     ```bash
-    git clone https://github.com/chatgpt/factorial-java.git
+    git clone https://github.com/pradyumna632/Nelkinda-Assignment.git
     ```
 
 2. **Navigate to the project directory**:
     ```bash
-    cd factorial-java
+    cd Nelkinda-Assignment
     ```
 
 3. **Compile the Java files**: 
