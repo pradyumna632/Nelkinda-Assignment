@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="FactorialTestSuite">
+    <test name="FactorialTest">
+        <classes>
+            <class name="com.nelkinda.FactorialTest"/>
+        </classes>
+    </test>
+</suite>
